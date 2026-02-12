@@ -7,7 +7,7 @@ This Privacy Policy explains what data the Spotlight bot collects, why it is col
 ## 1. Data We Collect
 The bot stores only data required to operate its features, including:
 - Guild IDs and configuration settings (roles, rotation intervals, limits, and related options)
-- Role IDs used for spotlight selection, blacklists, and fallback roles
+- Role IDs used for spotlight selection, blacklists, booster perks, and fallback roles
 - Rotated user IDs used to avoid repeat selections
 - Basic operational metadata (timestamps for last rotation and related scheduling)
 
@@ -23,7 +23,7 @@ We do not sell or share stored data with third parties. Data is only accessed by
 Data is retained only as long as necessary for the bot to operate. Guild owners may request a data purge.
 
 ## 5. Data Removal Requests
-Guild owners may request a purge of their guild's data by contacting support in the official [support server](https://discord.gg/Dt8jxXsXwe) and proving ownership of the guild.
+Guild owners may request a purge of their account or guild's data by contacting support in the official [support server](https://discord.gg/Dt8jxXsXwe) and proving ownership of the guild.
 
 ## 6. Removal and Purge
 We reserve the right to remove the bot from any guild and to purge data when necessary, with or without notice.

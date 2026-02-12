@@ -23,7 +23,8 @@ We do not sell or share stored data with third parties. Data is only accessed by
 Data is retained only as long as necessary for the bot to operate. Guild owners may request a data purge.
 
 ## 5. Data Removal Requests
-Guild owners may request a purge of their account or guild's data by contacting support in the official [support server](https://discord.gg/Dt8jxXsXwe) and proving ownership of the guild.
+Users may request a purge of their account or guild's data by contacting support in the official [support server](https://discord.gg/Dt8jxXsXwe).
+- Deleting your guild data may require proof of ownership
 
 ## 6. Removal and Purge
 We reserve the right to remove the bot from any guild and to purge data when necessary, with or without notice.

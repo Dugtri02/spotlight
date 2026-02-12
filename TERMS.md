@@ -14,7 +14,7 @@ You agree to use the bot in compliance with Discord's Terms of Service and Commu
 The bot only uses and stores data necessary to operate its features. See the Privacy Policy for details.
 
 ## 4. Data Removal Requests
-Guild owners may request a purge of their guild's data by contacting support in the official [support server](https://discord.gg/Dt8jxXsXwe) and proving ownership of the guild.
+Guild owners may request a purge of their guild's data by contacting support in the official [support server](https://discord.gg/PJ87Q9ubJ8) and proving ownership of the guild.
 
 ## 5. Removal and Termination
 We reserve the right to remove the bot from any guild and to purge data when necessary, with or without notice.

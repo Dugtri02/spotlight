@@ -13,4 +13,4 @@ Spotlight is a Discord bot that rotates roles to highlight members, with configu
 See [Privacy Policy](https://dugtri02.github.io/spotlight/PRIVACY) and [Terms of Service](https://dugtri02.github.io/spotlight/TERMS) for details on data use and policies.
 
 ## Support
-Join the support server: https://discord.gg/Dt8jxXsXwe
+Join the support server: https://discord.gg/PJ87Q9ubJ8
